@@ -8943,10 +8943,10 @@ h1, h2, h3, h4, h5,
         padding: 0;
         line-height: 1.5; }
       .block-2 .front .box h2 {
-        font-size: 20px;
+        font-size: 25px;
         font-weight: 600; }
       .block-2 .front .box p {
-        font-size: 12px; }
+        font-size: 15px; }
   .block-2 .back {
     background: #fdbe34;
     -webkit-box-shadow: 0 0 70px -10px rgba(0, 0, 0, 0.4);
