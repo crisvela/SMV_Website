@@ -8979,10 +8979,16 @@ h1, h2, h3, h4, h5,
     .block-2 .author .name {
       color: #fff;
       font-weight: 600; }
-    .block-2 .author .position {
+    .block-2 .author {
       display: block;
       color: rgba(255, 255, 255, 0.9);
       font-size: 13px;
+      font-family: "Poppins", Arial, sans-serif;
+      font-weight: normal; }
+    .position {
+      display: block;
+      color: rgba(255, 255, 255, 0.9);
+      font-size: 15px;
       font-family: "Poppins", Arial, sans-serif;
       font-weight: normal; }
   @media (max-width: 991.98px) {
